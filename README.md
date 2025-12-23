@@ -1,5 +1,10 @@
 # SproutVR
 
+**Capstone Project - FPT University**
+
+* **Project Code:** FA25SE198
+* **Group Code:** GFA25SE07
+
 ## Introduction
 
 **SproutVR** is an EduTech platform designed to bridge the gap between immersive virtual reality learning and real-time classroom management. The system addresses the challenge of limited interactivity in traditional classrooms by allowing students to engage with 3D simulations while enabling instructors to monitor, assist, and grade progress instantly.
@@ -103,9 +108,9 @@ The School System is a local desktop application that acts as the "Local Server"
 
 ![School System Screen Flow - School Admin](doc/images/school/screenflow/figure16.png)
 
-## Team Members
+## Team Members & Supervisors
 
-**Capstone Project - Group GFA25SE07** 
+**Group GFA25SE07**
 
 | Name | Role | Student ID |
 | --- | --- | --- |
@@ -118,4 +123,4 @@ The School System is a local desktop application that acts as the "Local Server"
 **Supervisors:**
 
 * Lâm Hữu Khánh Phương
-* Lý Ánh Dương (External)
+* Lý Ánh Dương
