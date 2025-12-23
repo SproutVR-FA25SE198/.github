@@ -27,11 +27,11 @@ The system utilizes a relational database structure to manage users, licenses, a
 
 **Provider System ERD:** Handles Organizations, Orders, Maps, and License Keys.
 
-![SproutVR Provider System Logical ERD](doc/images/provider/erd/figure67.png)
+![SproutVR Provider System Logical ERD](../doc/images/provider/erd/figure67.png)
 
 **School System ERD:** Handles Teachers, Students, VR Devices, and Session Results.
 
-![SproutVR School System Logical ERD](doc/images/school/erd/figure68.png)
+![SproutVR School System Logical ERD](../doc/images/school/erd/figure68.png)
 
 ## Game (VR Client)
 
@@ -63,20 +63,20 @@ The Provider System serves as the central hub for distributing content to school
 
 ### Use Case Diagrams
 
-![Use Case Diagram for SproutVR Provider System](doc/images/provider/usecase/figure02.png)
+![Use Case Diagram for SproutVR Provider System](../doc/images/provider/usecase/figure02.png)
 
 ### Architecture Diagram
 
-![Architecture Diagram for SproutVR Provider System](doc/images/provider/architecture/figure72.png)
+![Architecture Diagram for SproutVR Provider System](../doc/images/provider/architecture/figure72.png)
 
 
 ### Screen Flow
 
-![Provider System Screen Flow - Guest](doc/images/provider/screenflow/figure12.png)
+![Provider System Screen Flow - Guest](../doc/images/provider/screenflow/figure12.png)
 
-![Provider System Screen Flow - Organization](doc/images/provider/screenflow/figure13.png)
+![Provider System Screen Flow - Organization](../doc/images/provider/screenflow/figure13.png)
 
-![Provider System Screen Flow - System Admin](doc/images/provider/screenflow/figure14.png)
+![Provider System Screen Flow - System Admin](../doc/images/provider/screenflow/figure14.png)
 
 
 ## School (Desktop System)
@@ -96,17 +96,17 @@ The School System is a local desktop application that acts as the "Local Server"
 
 ### Use Case Diagrams
 
-![Use Case Diagram for SproutVR School System](doc/images/school/usecase/figure07.png)
+![Use Case Diagram for SproutVR School System](../doc/images/school/usecase/figure07.png)
 
 ### Architecture Diagram
 
-![Architecture Diagram for SproutVR School System](doc/images/school/architecture/figure73.png)
+![Architecture Diagram for SproutVR School System](../doc/images/school/architecture/figure73.png)
 
 ### Screen Flow
 
-![School System Screen Flow - Teacher](doc/images/school/screenflow/figure15.png)
+![School System Screen Flow - Teacher](../doc/images/school/screenflow/figure15.png)
 
-![School System Screen Flow - School Admin](doc/images/school/screenflow/figure16.png)
+![School System Screen Flow - School Admin](../doc/images/school/screenflow/figure16.png)
 
 ## Team Members & Supervisors
 
@@ -124,3 +124,4 @@ The School System is a local desktop application that acts as the "Local Server"
 
 * Lâm Hữu Khánh Phương
 * Lý Ánh Dương
+
