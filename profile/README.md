@@ -1,7 +1,7 @@
 # SproutVR
 
 <p align="center">
-  <img src="../doc/logo/SproutVR_Logo.png" alt="SproutVR Logo" width="200" />
+  <img src="../doc/logo/SproutVR_Logo.png" alt="SproutVR Logo" width="400" />
 </p>
 
 **Capstone Project - FPT University**
@@ -128,5 +128,6 @@ The School System is a local desktop application that acts as the "Local Server"
 
 * Lâm Hữu Khánh Phương
 * Lý Ánh Dương
+
 
 
